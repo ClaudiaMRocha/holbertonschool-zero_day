@@ -3,3 +3,6 @@ This Repository contains 0x00-vagrant directory.
 
 This Repository contains 0x01-emacs directory.
 0x01-emacs directory contains 0-opening file.
+
+This Repository contains 0x02-vi directory.
+0x01-emacs directory contains 0-inserting file.
